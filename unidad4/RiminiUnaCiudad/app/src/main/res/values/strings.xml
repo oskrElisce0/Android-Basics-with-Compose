@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Oaxaca</string>
+    <string name="app_description">Oaxaca de Juárez es el corazón cultural de México, una ciudad donde la historia prehispánica y colonial se funden en una explosión de colores, sabores y tradiciones. Famosa por su gastronomía de clase mundial, sus siete moles y el mezcal artesanal, Oaxaca cautiva con la majestuosidad de su arquitectura de cantera verde y la calidez de su gente. Desde las antiguas ruinas de Monte Albán hasta los vibrantes mercados llenos de alebrijes y textiles, cada rincón de esta ciudad Patrimonio de la Humanidad cuenta una historia de resistencia y belleza artística inigualable.</string>
+    <string name="app_logo">Logo de Oaxaca</string>
+    <string name="general_address">%s Oaxaca, México</string>
+    <string name="start_exploring">¡Empieza a explorar!</string>
+    <string name="navigate_up_button">Botón de navegación</string>
+    <string name="home_category">Inicio</string>
+
+    <!-- Categorías -->
+    <string name="category_1_name">Sabores de Oaxaca</string>
+    <string name="category_2_name">Desayuno Tradicional</string>
+    <string name="category_3_name">Hoteles Boutique</string>
+    <string name="category_4_name">Mercados y Vida</string>
+    <string name="category_5_name">Cultura y Arte</string>
+    <string name="category_6_name">Experiencia Mezcal</string>
+
+    <!-- SABORES DE OAXACA (Cenas/Restaurantes) -->
+    <string name="restaurant_1_name">Los Danzantes</string>
+    <string name="restaurant_2_name">Casa Oaxaca</string>
+    <string name="restaurant_3_name">Origen</string>
+    <string name="restaurant_4_name">Pitiona</string>
+    <string name="restaurant_5_name">Levadura de Olla</string>
+    <string name="restaurant_6_name">Las Quince Letras</string>
+    <string name="restaurant_7_name">Zandunga</string>
+    <string name="restaurant_8_name">Criollo</string>
+
+    <string name="restaurant_1_rate">4.8</string>
+    <string name="restaurant_2_rate">4.7</string>
+    <string name="restaurant_3_rate">4.6</string>
+    <string name="restaurant_4_rate">4.5</string>
+    <string name="restaurant_5_rate">4.9</string>
+    <string name="restaurant_6_rate">4.7</string>
+    <string name="restaurant_7_rate">4.6</string>
+    <string name="restaurant_8_rate">4.4</string>
+
+    <string name="restaurant_1_address">Macedonio Alcalá 403, Centro</string>
+    <string name="restaurant_2_address">Constitución 104, Centro</string>
+    <string name="restaurant_3_address">Hidalgo 820, Centro</string>
+    <string name="restaurant_4_address">Allende 114, Centro</string>
+    <string name="restaurant_5_address">García Vigil 304, Centro</string>
+    <string name="restaurant_6_address">Abasolo 300, Centro</string>
+    <string name="restaurant_7_address">García Vigil 512, Centro</string>
+    <string name="restaurant_8_address">Francisco I. Madero 129</string>
+
+    <string name="restaurant_1_description">Ubicado en un magnífico patio colonial, Los Danzantes ofrece una fusión perfecta entre la cocina tradicional oaxaqueña y técnicas contemporáneas. Su mole negro es legendario, servido en un ambiente que celebra el arte y la arquitectura local.</string>
+    <string name="restaurant_2_description">El Chef Alejandro Ruiz ha creado un santuario gastronómico donde los ingredientes del mercado se transforman en obras de arte. La terraza ofrece una vista inigualable del Templo de Santo Domingo mientras disfrutas de una salsa preparada en tu mesa.</string>
+    <string name="restaurant_3_description">Bajo la visión del Chef Rodolfo Castellanos, Origen rescata los sabores auténticos de las regiones de Oaxaca. Cada plato es un homenaje a los productores locales, presentando la biodiversidad del estado con elegancia y respeto.</string>
+    <string name="restaurant_4_description">Pitiona es un recorrido por la memoria gustativa del Chef José Manuel Baños. Utilizando ingredientes puramente oaxaqueños, el menú sorprende con texturas y sabores que reinventan los clásicos de la cocina de la abuela.</string>
+    <string name="restaurant_5_description">Thalía Barrios rescata las recetas ceremoniales y cotidianas de los pueblos de Oaxaca. En Levadura de Olla, el tomate nativo y el maíz criollo son los protagonistas de una cocina honesta que alimenta el alma.</string>
+    <string name="restaurant_6_description">Un pilar de la gastronomía oaxaqueña dirigido por la Chef Celia Florián. Aquí se preserva el sabor auténtico de los moles y platillos tradicionales, siendo un punto de encuentro esencial para los amantes de la cocina de raíz.</string>
+    <string name="restaurant_7_description">Especializado en la cocina del Istmo de Tehuantepec, Zandunga ofrece una explosión de sabores únicos como el garnacha y el pollo garnachero, acompañados de la mejor selección de mezcales en un ambiente festivo.</string>
+    <string name="restaurant_8_description">Criollo, del reconocido Chef Enrique Olvera, ofrece un menú de degustación que cambia diariamente según lo que el mercado ofrece. Es una experiencia minimalista que resalta la pureza de los ingredientes oaxaqueños en un espacio arquitectónico único.</string>
+
+    <!-- DESAYUNO TRADICIONAL -->
+    <string name="breakfast_1_name">Boulenc</string>
+    <string name="breakfast_2_name">PAN:AM</string>
+    <string name="breakfast_3_name">Itanoní</string>
+    <string name="breakfast_4_name">Casa Mayordomo</string>
+    <string name="breakfast_5_name">Café Brújula</string>
+
+    <string name="breakfast_1_rate">4.9</string>
+    <string name="breakfast_2_rate">4.7</string>
+    <string name="breakfast_3_rate">4.8</string>
+    <string name="breakfast_4_rate">4.5</string>
+    <string name="breakfast_5_rate">4.6</string>
+
+    <string name="breakfast_1_address">Porfirio Díaz 207, Centro</string>
+    <string name="breakfast_2_address">Belisario Domínguez 419</string>
+    <string name="breakfast_3_address">Belisario Domínguez 513</string>
+    <string name="breakfast_4_address">Macedonio Alcalá 302</string>
+    <string name="breakfast_5_address">Macedonio Alcalá 104</string>
+
+    <string name="breakfast_1_description">Famoso por su panadería artesanal de masa madre y sus desayunos creativos. El ambiente bohemio y el aroma a pan recién horneado hacen de Boulenc una parada obligatoria para empezar el día con energía y sabor.</string>
+    <string name="breakfast_2_description">Un lugar encantador donde el pan dulce tradicional se eleva a otro nivel. Sus huevos al gusto y chilaquiles, acompañados de un chocolate caliente espumoso, definen la experiencia del desayuno oaxaqueño moderno.</string>
+    <string name="breakfast_3_description">Una "flor de maíz" dedicada a preservar las variedades de maíz criollo. Aquí podrás probar las mejores tetelas, memorables y tortillas hechas a mano, celebrando la base de la alimentación mexicana en cada bocado.</string>
+    <string name="breakfast_4_description">El lugar ideal para disfrutar de un auténtico chocolate oaxaqueño con pan de yema. Sus desayunos tradicionales en el corazón del andador turístico te sumergen en la vida cotidiana de la ciudad.</string>
+    <string name="breakfast_5_description">Referente del café de especialidad en Oaxaca. Con granos seleccionados de las diversas regiones del estado, Brújula ofrece el espacio perfecto para disfrutar de un buen espresso mientras observas el movimiento del centro histórico.</string>
+
+    <!-- HOTELES BOUTIQUE -->
+    <string name="hotel_1_name">Quinta Real</string>
+    <string name="hotel_2_name">Hotel Azul</string>
+    <string name="hotel_3_name">Casa Antonieta</string>
+    <string name="hotel_4_name">Pug Seal</string>
+    <string name="hotel_5_name">Hotel Sin Nombre</string>
+    <string name="hotel_6_name">Otro Oaxaca</string>
+
+    <string name="hotel_1_rate">4.9</string>
+    <string name="hotel_2_rate">4.7</string>
+    <string name="hotel_3_rate">4.8</string>
+    <string name="hotel_4_rate">4.9</string>
+    <string name="hotel_5_rate">4.7</string>
+    <string name="hotel_6_rate">5.0</string>
+
+    <string name="hotel_1_address">5 de Mayo 300, Centro</string>
+    <string name="hotel_2_address">Abasolo 313, Centro</string>
+    <string name="hotel_3_address">Hidalgo 911, Centro</string>
+    <string name="hotel_4_address">Porfirio Díaz 212, Centro</string>
+    <string name="hotel_5_address">20 de Noviembre 103</string>
+    <string name="hotel_6_address">García Vigil 406, Centro</string>
+
+    <string name="hotel_1_description">Ubicado en el antiguo Convento de Santa Catalina de Siena, este hotel es una joya arquitectónica. Sus jardines, patios y habitaciones conservan la majestuosidad del siglo XVI, ofreciendo una estancia llena de historia y lujo.</string>
+    <string name="hotel_2_description">Un hotel boutique que fusiona el diseño contemporáneo con la tradición oaxaqueña. Cada habitación es una galería de arte, y su patio central es el lugar perfecto para relajarse después de explorar la ciudad.</string>
+    <string name="hotel_3_description">Situado en una de las casas más antiguas de la ciudad, Casa Antonieta ofrece un ambiente de paz y hospitalidad. Su diseño minimalista resalta la belleza de la arquitectura original, creando un refugio sereno en el centro.</string>
+    <string name="hotel_4_description">Un concepto de hospitalidad que celebra la cultura mexicana a través del diseño audaz y el servicio personalizado. Cada rincón de Pug Seal cuenta una historia visual que sorprende y encanta a sus huéspedes.</string>
+    <string name="hotel_5_description">Ubicado en una casona del siglo XVII, este hotel es un santuario de diseño y gastronomía vegetal. Sus espacios abiertos y techos altos invitan a la contemplación y al descanso en un entorno de elegancia sobria.</string>
+    <string name="hotel_6_description">Una propuesta disruptiva que redefine el lujo en Oaxaca. Con una arquitectura impresionante y una atención al detalle excepcional, Otro Oaxaca ofrece una experiencia sensorial única para el viajero moderno.</string>
+
+    <!-- MERCADOS Y VIDA -->
+    <string name="beach_1_name">Mercado 20 de Noviembre</string>
+    <string name="beach_2_name">Mercado Benito Juárez</string>
+    <string name="beach_3_name">Mercado de Tlacolula</string>
+    <string name="beach_4_name">Andador Turístico</string>
+    <string name="beach_5_name">Barrio de Jalatlaco</string>
+
+    <string name="beach_1_rate">4.9</string>
+    <string name="beach_2_rate">4.8</string>
+    <string name="beach_3_rate">5.0</string>
+    <string name="beach_4_rate">4.7</string>
+    <string name="beach_5_rate">4.9</string>
+
+    <string name="beach_1_address">20 de Noviembre, Centro</string>
+    <string name="beach_2_address">Las Casas, Centro</string>
+    <string name="beach_3_address">Tlacolula de Matamoros</string>
+    <string name="beach_4_address">Macedonio Alcalá</string>
+    <string name="beach_5_address">Jalatlaco, Oaxaca</string>
+
+    <string name="beach_1_description">El corazón gastronómico popular de la ciudad. No puedes irte sin pasar por el "Pasillo de Humo" para probar el tasajo y chorizo asado al momento, acompañado de tortillas bajadas del comal.</string>
+    <string name="beach_2_description">El lugar perfecto para comprar artesanías, quesillo, chapulines y mezcal. Sus pasillos vibrantes son un festín para los sentidos, donde los aromas y colores de Oaxaca se concentran en un solo lugar.</string>
+    <string name="beach_3_description">Uno de los mercados más antiguos y tradicionales de Mesoamérica. Cada domingo, miles de personas se reúnen para intercambiar productos, ofreciendo una visión auténtica de la vida y cultura zapoteca.</string>
+    <string name="beach_4_description">La arteria principal del centro histórico, flanqueada por galerías de arte, tiendas de diseño y museos. Caminar por sus piedras de cantera verde es descubrir la esencia vibrante de la ciudad.</string>
+    <string name="beach_5_description">Considerado uno de los barrios más bonitos del mundo, Jalatlaco encanta con sus calles empedradas, murales coloridos y ambiente tranquilo. Es el lugar ideal para una caminata fotográfica inolvidable.</string>
+
+    <!-- CULTURA Y ARTE -->
+    <string name="entertainment_1_name">Santo Domingo</string>
+    <string name="entertainment_2_name">Monte Albán</string>
+    <string name="entertainment_3_name">Museo Textil</string>
+    <string name="entertainment_4_name">IAGO</string>
+    <string name="entertainment_5_name">Teatro Macedonio Alcalá</string>
+    <string name="entertainment_6_name">MACO</string>
+
+    <string name="entertainment_1_rate">5.0</string>
+    <string name="entertainment_2_rate">5.0</string>
+    <string name="entertainment_3_rate">4.8</string>
+    <string name="entertainment_4_rate">4.9</string>
+    <string name="entertainment_5_rate">4.9</string>
+    <string name="entertainment_6_rate">4.7</string>
+
+    <string name="entertainment_1_address">Macedonio Alcalá s/n</string>
+    <string name="entertainment_2_address">Carretera a Monte Albán</string>
+    <string name="entertainment_3_address">Hidalgo 917, Centro</string>
+    <string name="entertainment_4_address">Macedonio Alcalá 507</string>
+    <string name="entertainment_5_address">Independencia 900</string>
+    <string name="entertainment_6_address">Macedonio Alcalá 202</string>
+
+    <string name="entertainment_1_description">El Templo y Ex-Convento de Santo Domingo de Guzmán es una obra maestra del barroco mexicano. Su interior recubierto de lámina de oro y su jardín etnobotánico son testimonios de la grandeza cultural de Oaxaca.</string>
+    <string name="entertainment_2_description">La antigua capital de los zapotecas, situada en la cima de un cerro con vistas espectaculares del valle. Sus pirámides, tumbas y plazas cuentan la historia de una de las civilizaciones más avanzadas de América.</string>
+    <string name="entertainment_3_description">Un espacio dedicado a la preservación y difusión de los textiles de Oaxaca y el mundo. Sus exposiciones muestran la increíble técnica y simbolismo detrás de cada tejido artesanal.</string>
+    <string name="entertainment_4_description">Fundado por el artista Francisco Toledo, el Instituto de Artes Gráficas de Oaxaca es un centro cultural vibrante con una de las bibliotecas de arte más importantes de Latinoamérica.</string>
+    <string name="entertainment_5_description">Uno de los teatros más bellos de México, con una arquitectura de estilo francés. Es el epicentro de la vida artística de la ciudad, albergando conciertos, óperas y eventos culturales de primer nivel.</string>
+    <string name="entertainment_6_description">El Museo de Arte Contemporáneo de Oaxaca, ubicado en la famosa "Casa de Cortés", presenta obras de artistas locales e internacionales en un entorno arquitectónico histórico impresionante.</string>
+
+    <!-- EXPERIENCIA MEZCAL -->
+    <string name="culture_1_name">La Mezcaloteca</string>
+    <string name="culture_2_name">In Situ</string>
+    <string name="culture_3_name">Mezcalería Los Amantes</string>
+    <string name="culture_4_name">Archivo Maguey</string>
+    <string name="culture_5_name">Expendio Tradición</string>
+    <string name="culture_6_name">Sabina Sabe</string>
+    <string name="culture_7_name">Selva Oaxaca</string>
+
+    <string name="culture_1_rate">4.9</string>
+    <string name="culture_2_rate">4.8</string>
+    <string name="culture_3_rate">4.7</string>
+    <string name="culture_4_rate">4.8</string>
+    <string name="culture_5_rate">4.6</string>
+    <string name="culture_6_rate">4.9</string>
+    <string name="culture_7_rate">4.8</string>
+
+    <string name="culture_1_address">Reforma 506, Centro</string>
+    <string name="culture_2_address">Morelos 511, Centro</string>
+    <string name="culture_3_address">Allende 107, Centro</string>
+    <string name="culture_4_address">Morelos 509, Centro</string>
+    <string name="culture_5_address">Reforma esq. Murguía</string>
+    <string name="culture_6_address">5 de Mayo 209, Centro</string>
+    <string name="culture_7_address">Macedonio Alcalá 403</string>
+
+    <string name="culture_1_description">Más que una mezcalería, es un centro de educación sobre el mezcal artesanal. Sus catas guiadas te enseñarán a distinguir las variedades de maguey y los procesos de destilación tradicionales.</string>
+    <string name="culture_2_description">Con una colección impresionante de mezcales de pequeños productores, In Situ es el lugar para los verdaderos conocedores. Cada copa cuenta la historia de una región y un maestro mezcalero diferente.</string>
+    <string name="culture_3_description">Un espacio íntimo y lleno de arte dedicado al mezcal. Su ambiente relajado y su excelente selección lo convierten en el sitio ideal para disfrutar de la "bebida de los dioses" en el corazón de la ciudad.</string>
+    <string name="culture_4_description">Un proyecto que celebra la cultura del mezcal y la música. Aquí podrás disfrutar de variedades raras de mezcal mientras te sumerges en ritmos locales y un ambiente contemporáneo.</string>
+    <string name="culture_5_description">Un espacio moderno que rinde homenaje a la tradición mezcalera de la familia Chagoya. Su diseño vanguardista y su mixología basada en mezcal ofrecen una perspectiva fresca de esta bebida ancestral.</string>
+    <string name="culture_6_description">Reconocido como uno de los mejores bares de Norteamérica, Sabina Sabe combina una cocina excepcional con una coctelería de autor basada en mezcal que te dejará sin palabras.</string>
+    <string name="culture_7_description">Ubicado arriba de Los Danzantes, Selva ofrece una experiencia de coctelería sofisticada inspirada en la biodiversidad de Oaxaca, en un entorno elegante y acogedor.</string>
+</resources>

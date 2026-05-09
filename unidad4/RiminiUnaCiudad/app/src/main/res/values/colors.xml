@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta Oaxaca: Cantera Verde, Barro Negro, Terracota y Colores Vibrantes -->
+    <color name="purple_200">#E1BEE7</color>
+    <color name="purple_500">#8E24AA</color> <!-- Color vibrante de textiles -->
+    <color name="purple_700">#5E35B1</color>
+    <color name="teal_200">#B2DFDB</color>
+    <color name="teal_700">#00796B</color> <!-- Cantera Verde -->
+    <color name="black">#1A1A1A</color> <!-- Barro Negro -->
+    <color name="white">#FAFAFA</color>
+    
+    <!-- Colores Temáticos Oaxaca -->
+    <color name="oaxaca_green">#4E6E5D</color> <!-- Cantera Verde Profundo -->
+    <color name="oaxaca_terracotta">#C05C39</color> <!-- Tierra y Tejas -->
+    <color name="oaxaca_gold">#D4AF37</color> <!-- Oro de Santo Domingo -->
+    <color name="oaxaca_magenta">#D81B60</color> <!-- Buganvilias -->
+
+    <!-- Yellow star -->
+    <color name="star_rate">#FFD700</color>
+</resources>

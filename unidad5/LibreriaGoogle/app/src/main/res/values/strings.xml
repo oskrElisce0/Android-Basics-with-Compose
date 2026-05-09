@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oaxaca: El Librero Cultural</string>
+    <string name="loading_failed">¡Ay caramba! No pudimos cargar los libros.</string>
+    <string name="retry">Intentar de nuevo</string>
+    <string name="loading">Buscando tesoros literarios...</string>
+    <string name="placeholder_success">Libros encontrados</string>
+    <string name="mars_photo">Portada del libro</string>
+</resources>
